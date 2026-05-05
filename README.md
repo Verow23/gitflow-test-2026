@@ -7,4 +7,4 @@ It is a lightweight, branch-based workflow that supports teams and projects wher
 
 ## Author 
 
-Véronique Waroux
+Created by Véronique Waroux
